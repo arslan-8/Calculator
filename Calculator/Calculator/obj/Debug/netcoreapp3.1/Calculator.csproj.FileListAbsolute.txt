@@ -1,0 +1,45 @@
+C:\Users\Arslan\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\Arslan\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\Arslan\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\Arslan\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\Arslan\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Arslan\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Arslan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\Arslan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.Form1.resources
+C:\Users\Arslan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+C:\Users\Arslan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Arslan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\Arslan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Arslan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Arslan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Arslan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\Users\Arslan\Desktop\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\Arslan\Desktop\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\Arslan\Desktop\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\Arslan\Desktop\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\Arslan\Desktop\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Arslan\Desktop\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Arslan\Desktop\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\Arslan\Desktop\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.Form1.resources
+C:\Users\Arslan\Desktop\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+C:\Users\Arslan\Desktop\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Arslan\Desktop\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\Arslan\Desktop\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Arslan\Desktop\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Arslan\Desktop\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Arslan\Desktop\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+D:\Lectures\Semester 5\VPL (Lab)\Assignments\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+D:\Lectures\Semester 5\VPL (Lab)\Assignments\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+D:\Lectures\Semester 5\VPL (Lab)\Assignments\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+D:\Lectures\Semester 5\VPL (Lab)\Assignments\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+D:\Lectures\Semester 5\VPL (Lab)\Assignments\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\Lectures\Semester 5\VPL (Lab)\Assignments\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\Lectures\Semester 5\VPL (Lab)\Assignments\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+D:\Lectures\Semester 5\VPL (Lab)\Assignments\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.Form1.resources
+D:\Lectures\Semester 5\VPL (Lab)\Assignments\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+D:\Lectures\Semester 5\VPL (Lab)\Assignments\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+D:\Lectures\Semester 5\VPL (Lab)\Assignments\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+D:\Lectures\Semester 5\VPL (Lab)\Assignments\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+D:\Lectures\Semester 5\VPL (Lab)\Assignments\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+D:\Lectures\Semester 5\VPL (Lab)\Assignments\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+D:\Lectures\Semester 5\VPL (Lab)\Assignments\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
